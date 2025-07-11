@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dinosea-team.github.io/portfolio-template/",
+  "homepage": "https://github.com/how-to-song/github-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
